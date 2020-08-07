@@ -5,6 +5,10 @@ public class Test {
 		System.out.println("A");
 		System.out.println("Start");
 		System.out.println("PR conflict");
+		System.out.println("PR conflict in B");
+		System.out.println("B");
+
+
 	}
 
 }
