@@ -6,7 +6,7 @@ public class Test {
 		System.out.println("Start");
 		System.out.println("PR conflict");
 		System.out.println("PR conflict in B");
-		System.out.println("B");
+		System.out.println("Bb Second time");
 
 
 	}
